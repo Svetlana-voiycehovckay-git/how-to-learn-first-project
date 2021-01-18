@@ -5,4 +5,11 @@
   line-height: 30px;
   list-style: none;
   text-decoration: none;
+  opacity: 1;
 }
+
+.footer__column-link:hover {
+  opacity: .5;
+  transition: ease;
+}
+
